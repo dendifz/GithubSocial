@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Github Social</string>
+    <string name="repository">Repository</string>
+    <string name="lihat_profile">Lihat Profile</string>
+    <string name="username">Username</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string name="list_user">Search untuk memulai!</string>
+    <string name="github_user">Github User</string>
+    <string name="version_code">V.1.5</string>
+    <string name="search_hint">Username</string>
+    <string name="user_found">User found for </string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+
+    <string name="search">Search</string>
+    <string name="favorite">favorite</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="hapus">Hapus</string>
+
+</resources>
