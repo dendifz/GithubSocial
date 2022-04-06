@@ -1,3 +1,11 @@
+/*
+ * *
+ *  * Created by Dendi Fazar Zaman on 4/6/22, 2:25 PM
+ *  * Copyright (c) 2022 . All rights reserved.
+ *  * Last modified 4/6/22, 2:11 PM
+ *
+ */
+
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'

@@ -15,10 +15,12 @@
         <entry key="..\:/Bangkit/GithubSocial/app/src/main/res/layout/user_list.xml" value="0.358695652173913" />
         <entry key="..\:/Bangkit/GithubSocial/app/src/main/res/menu/default_menu.xml" value="0.3625" />
         <entry key="..\:/Bangkit/GithubSocial/app/src/main/res/menu/favorite_menu.xml" value="0.18541666666666667" />
+        <entry key="..\:/Users/GANS-GAME/Documents/GitHub/projek/GithubSocial/app/src/main/res/layout/activity_main.xml" value="0.2" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
